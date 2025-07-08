@@ -4,7 +4,8 @@ Automatically upload files to WordPress and move them to new folder when success
 
 ## Dependencies
 
-- [dotenv]()
+- [node](https://nodejs.org/en)
+- [dotenv](https://www.npmjs.com/package/dotenv)
 - [playwright](https://www.npmjs.com/package/playwright)
 - a `.env` with the following variables
 
