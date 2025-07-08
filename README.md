@@ -7,6 +7,7 @@ Automatically upload files to WordPress and move them to new folder when success
 - [node](https://nodejs.org/en)
 - [dotenv](https://www.npmjs.com/package/dotenv)
 - [playwright](https://www.npmjs.com/package/playwright)
+  - don't forget to `npx playwright install-deps`
 - a `.env` with the following variables
 
 ```bashh 
