@@ -1,0 +1,24 @@
+{
+  "name": "upload-to-wordpress",
+  "version": "1.0.0",
+  "description": "Automatically upload files to WordPress and move them to new folder when successful.",
+  "main": "minutes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanCrider/wordpress-file-upload.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanCrider/wordpress-file-upload/issues"
+  },
+  "homepage": "https://github.com/JonathanCrider/wordpress-file-upload#readme",
+  "dependencies": {
+    "dotenv": "^17.1.0",
+    "playwright": "^1.53.2"
+  }
+}
